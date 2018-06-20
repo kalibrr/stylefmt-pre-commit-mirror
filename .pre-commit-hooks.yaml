@@ -2,6 +2,6 @@
   name: stylefmt
   entry: stylefmt
   language: node
-  files: \.scss$
+  files: \.scss$|\.css$
   args:
   - --recursive
