@@ -1,0 +1,7 @@
+- id: stylefmt
+  name: stylefmt
+  entry: stylefmt
+  language: node
+  files: \.scss$
+  args:
+  - --recursive
